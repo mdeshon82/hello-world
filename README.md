@@ -3,6 +3,6 @@
 Things about me:
 * Hiker
 * IT Nerd
-* Sailor
+* Sailor 
 
 I Look forward to learning with everyone. 
